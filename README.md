@@ -9,6 +9,6 @@ This project involves the design and PCB development of critical safety circuits
 <br>
 3. Shutdown Circuit: Provides a fail-safe mechanism to quickly and safely power down the vehicle's systems in case of an emergency.
 <h2> Design Tools and Technologies</h2>
-Design Software: Proteus
+Design Software: Proteus Software
 <br>
-PCB Design Software: Following the initial circuit design, PCB layouts were created by the help of Altium Software.
+PCB Design Software: PCB layouts were created by the help of Altium Software.
