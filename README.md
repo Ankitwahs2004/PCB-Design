@@ -1,4 +1,4 @@
-<h1>Design and PCB Development of Safety Circuits for EV Vehicles</h1>
+<h1>Design and PCB Development of Safety Circuits for Formula Student Vehicle</h1>
 <h2>Project Overview </h2>
 This project involves the design and PCB development of critical safety circuits for electric vehicles (EVs), specifically focusing on the TSAL (Traction System Active Light), BSPD (Brake System Plausibility Device), and Shutdown circuits. These circuits were developed using Proteus, and the designs were subsequently translated into PCB layouts by using Altium Software, to ensure robust and reliable performance for our club's electric vehicle project.
 
